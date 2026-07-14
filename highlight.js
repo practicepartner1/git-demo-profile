@@ -2,3 +2,7 @@
 function shout(message) {
   return message.toUpperCase();
 }
+
+function shout(message) {
+  return message.toUppercase(I love you);
+}
