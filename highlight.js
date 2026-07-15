@@ -1,8 +1,8 @@
 //shouts a message in uppercase
 function shout(message) {
-  return message.toLowerCase();
+  return message.toUpperCase();
 }
 
 function shout(message) {
-  return message.toLowercase(I love you);
+  return message.toUppercase(I love you);
 }
