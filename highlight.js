@@ -4,5 +4,5 @@ function shout(message) {
 }
 
 function shout(message) {
-  return message.toLowercase(I love you);
+  return message.toLowercase(I love me);
 }
