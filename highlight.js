@@ -3,6 +3,12 @@ function shout(message) {
   return message.toLowerCase();
 }
 
+
 function shout(message) {
   return message.toLowercase(I love me);
 }
+function whisper(message) {
+  return message.toLowerCase();
+}
+
+
